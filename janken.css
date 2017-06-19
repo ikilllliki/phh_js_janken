@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background: linear-gradient(to bottom, #2EFEF7 0%, #FF00BF 50%,#2EFEF7 100%);/*正規のプロパティ*/
+
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: blue;
+    text-shadow: 0 3px 0 rgba(255,255,255,0.5)
+}
+
